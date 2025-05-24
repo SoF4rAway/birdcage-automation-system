@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Barrel Jack")(type "KiCad")(uri "${KIPRJMOD}/Barrel Jack")(options "")(descr ""))
+  (lib (name "Grove Conn")(type "KiCad")(uri "${KIPRJMOD}/Grove Conn")(options "")(descr ""))
+  (lib (name "LM2596")(type "KiCad")(uri "${KIPRJMOD}/LM2596")(options "")(descr ""))
+)

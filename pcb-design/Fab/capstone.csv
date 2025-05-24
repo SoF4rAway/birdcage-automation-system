@@ -1,0 +1,16 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R3,R4";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"10k";;;
+2;"J2,J3";"JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal";2;"Conn_01x02_Pin";;;
+3;"J11";"CUI_PJ-002A";1;"Barrel_Jack_Switch";;;
+4;"W_LV_SENSOR";"JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal";1;"Grove_Conn";;;
+5;"H2,H5,H1,H3";"MountingHole_2.2mm_M2_DIN965_Pad";4;"MountingHole_Pad";;;
+6;"C5,C4,C3";"CP_Radial_D6.3mm_P2.50mm";3;"100u";;;
+7;"STP_MTR,ULT_SENSOR";"JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal";2;"Conn_01x04_Pin";;;
+8;"Q2,Q1";"TO-220-3_Vertical";2;"TIP120";;;
+9;"A1";"Arduino_Uno_R4_WiFi_Shield";1;"Arduino_Uno_R4_WiFi_Shield";;;
+10;"D2,D1";"D_DO-41_SOD81_P10.16mm_Horizontal";2;"1N4001";;;
+11;"R2,R1";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"1k";;;
+12;"U2,U1";"YAAJ_DCDC_StepDown_LM2596";2;"LM2596_DCDC";;;
+13;"DHT-11,WTR_PMP,SERVO_PWM";"JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal";3;"Conn_01x03_Pin";;;
+14;"J10";"PinSocket_1x04_P2.54mm_Horizontal";1;"Conn_01x04_Socket";;;
+15;"A2";"Pololu_Breakout-16_15.2x20.3mm";1;"A4988_DRV";;;
